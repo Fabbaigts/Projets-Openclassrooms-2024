@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "sass": "^1.69.7"
+  },
+  "name": "projets-openclassrooms-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass--watch./sass/main.scss:./assets/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
